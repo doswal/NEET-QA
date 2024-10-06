@@ -1,1 +1,1 @@
-Find accepted copy at bit.ly/NeetQA
+Find accepted copy at [bit.ly/NeetQA](bit.ly/NeetQA)
